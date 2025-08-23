@@ -491,12 +491,6 @@ const HomeTest = () => {
                       />
                     </div>
 
-                  {/* Swipe indicator for mobile */}
-                  {isMobile && (
-                    <div className="absolute top-4 left-1/2 transform -translate-x-1/2 bg-black/40 backdrop-blur-md text-white px-3 py-1 rounded-full text-xs z-30 animate-pulse">
-                      Swipe to navigate
-                    </div>
-                  )}
                 </div>
 
                 {/* Enhanced Slide Title and Description - mobile responsive */}
