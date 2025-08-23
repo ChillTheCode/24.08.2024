@@ -359,10 +359,7 @@ const HomeTest = () => {
 
                 <div className="space-y-4 sm:space-y-6 md:space-y-8 lg:space-y-10 text-gray-700">
                   <p className="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl leading-relaxed font-light text-center">
-                   Gak kerasa, tepat 1 tahun yang lalu kita jadian. Jadi inget deg-degan banget dan seneng banget aku waktu kita first date. Pokoknya aku selalu suka ngelakuin apapun asalkan bareng kamu, kamu selalu bisa bikin hal-hal kecil yang kita lakuin terasa memorable. Di satu tahun ini, kita udah jadi pasangan yang berkembang banget. Kita udah saling ngertiin, sabar, dan saling dukung satu sama lain.
-                  </p>
-                  <p className="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl leading-relaxed font-light text-center">
-                 Makasih yaa udah mau jadi pacar aku hehehe. Tiap ngedate sama kamu aku selalu seneenng banget. I can’t imagine a single day in my life without you in it. Selamat Anniversary yang ke-1 tahun yaaa tutu ku. 
+                   Gak kerasa, tepat 1 tahun yang lalu kita jadian. Jadi inget deg-degan banget dan seneng banget aku waktu kita first date. Pokoknya aku selalu suka ngelakuin apapun asalkan bareng kamu, kamu selalu bisa bikin hal-hal kecil yang kita lakuin terasa memorable. Di satu tahun ini, kita udah jadi pasangan yang berkembang banget. Kita udah saling ngertiin, sabar, dan saling dukung satu sama lain.     Makasih yaa udah mau jadi pacar aku hehehe. I can’t imagine a single day in my life without you in it. Selamat Anniversary yang ke-1 tahun yaaa tutu ku. 
                   
                   </p>
                 </div>
@@ -370,7 +367,7 @@ const HomeTest = () => {
                 <div className="mt-6 sm:mt-8 md:mt-12 lg:mt-16 pt-4 sm:pt-6 md:pt-8 lg:pt-10 border-t border-pink-300/50 text-center">
                   <div className="flex items-center justify-center mb-3 sm:mb-4 md:mb-6">
                     <p className="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl text-gray-600 italic font-light px-2">
-                      – Edwin Daniel Toliansa
+                      – Edwin 
                     </p>
                   </div>
                 </div>
